@@ -25,7 +25,7 @@
 <p>imagePath:"yourPath/customizedImage.gif" //If you want can you insert your custom image</p>
 <p>}); </p>
 <p></script></p>
-<pre>
+</pre>
 <h4>可用参数</h4>
 <p>  ● timeToHidenumbers：fakeLoader消失的时间，单位毫秒。</p>
 <p>  ● zIndex：默认的zIndex。</p>
