@@ -13,7 +13,7 @@
 <p><script type="text/javascript"></p>
 <p>$("#funloader").funLoader();</p>
 <p></script></p>
-<p></pre></p>
+</pre>
 <h4>带参数调用：</h4>
 <pre>
 <p><script type="text/javascript"></p>
